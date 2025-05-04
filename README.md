@@ -2,7 +2,7 @@
 
 _Un humilde experimento que... ¡sorprendentemente funciona!_
 
-![FastAPI banner](./docs/banner.png)
+![FastAPI banner](https://miro.medium.com/v2/resize:fit:1400/1*fNYR_qApiq8wPbDxQvar2Q.png)
 
 ---
 
